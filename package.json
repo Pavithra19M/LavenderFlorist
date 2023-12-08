@@ -1,0 +1,12 @@
+{
+  "name": "lavenderflorist",
+  "version": "2.0.0",
+  "description": "ecommerce application built with MERN Stack",
+  "type":"module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavithra",
+  "license": "MIT"
+}

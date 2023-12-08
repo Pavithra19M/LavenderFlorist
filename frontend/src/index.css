@@ -1,0 +1,48 @@
+main{
+  min-height: 80vh;
+}
+.navbar-color{
+  background-color: rgb(192,123,192);
+}
+.logo-img{
+  width:75px;
+  height: 50px;
+}
+
+*{
+  font-family:'Georgia';
+}
+
+.text-style{
+  font-family: 'Georgia';
+  color:aliceblue !important
+}
+a{
+  text-decoration: none !important;
+  color: black !important;
+}
+.rating span{
+  margin:0.1rem;
+}
+.rating svg{
+  color:#f8e825
+}
+.rating-text{
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding-left: 6.5rem;
+  margin-top:-1.2rem;
+}
+.card-shadow{
+  box-shadow: 10px 5px 5px 5px rgb(240,237,240);
+}
+
+.button-style{
+  background-color: rgb(236, 199, 235);
+  /* padding:0.6rem; */
+  border-radius: 10px;
+}
+
+.button-style:hover{
+  background-color: rgb(192,123,192);
+}
